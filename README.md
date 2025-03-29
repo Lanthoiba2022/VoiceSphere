@@ -7,7 +7,7 @@
 New user sign-ups are currently **disabled** for this project. To test the application, use the following credentials:  
 
 ### ✅ Test Accounts  
-1. **Email:** `1.test@gmail.com`  
+1. **Email:** `test@gmail.com`  
    **Password:** `Test@2025`  
 
 2. **Email:** `johndoe@gmail.com`  
